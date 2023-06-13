@@ -42,3 +42,6 @@ In my next moves, I’m considering building a unique app that is directly relat
 ## Installation
 npm installer 9.1
 Firebase
+
+## Web Designer and Developer
+ Acheye Belema Obuborosa
